@@ -20,7 +20,7 @@
 Follow these steps to set up the project:
 
 1. **Clone the repository:**
-- git clone https://github.com/yourusername/ndkdemo.git
+- git clone [https://github.com/yourusername/ndkdemo.git](https://github.com/Vivek2510/NDK---Device-Root-Checker.git)
 
 2. **Open the project in Android Studio:** 
 - Open Android Studio and navigate to File -> Open and select the project folder.
